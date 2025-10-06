@@ -371,7 +371,7 @@ export default function ComposerPage() {
                      <CardHeader>
                         <CardTitle className="text-lg">Engagement Predictions</CardTitle>
                       </CardHeader>
-                      <CardContent className="flex flex-row justify-around gap-4 text-center">
+                      <CardContent className="flex flex-col sm:flex-row justify-around gap-4 text-center">
                         <div className="flex flex-col items-center space-y-2">
                           <div className="p-3 bg-primary/10 rounded-full">
                             <MailOpen className="h-6 w-6 text-primary" />
