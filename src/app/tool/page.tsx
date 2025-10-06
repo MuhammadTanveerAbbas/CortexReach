@@ -305,7 +305,7 @@ export default function ComposerPage() {
               </Button>
               <Button size="sm" className="flex-1" onClick={handleCopyEmail} variant="outline">
                 <Copy className="mr-2 h-4 w-4" />
-                Copy as Text
+                Copy
               </Button>
             </div>
           </CardContent>
